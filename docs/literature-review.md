@@ -3,6 +3,7 @@ Yang et al. study dual-display phones and investigate how multiple displays can 
 Yeh, Irudayaraj, and Vogel study a modified clamshell phone with a flexible touchscreen. Their research demonstrates interactions that use both the touchscreen and the phone's folding structure. This is relevant to my project because it shows how the clamshell form can be part of the interface, but their device relies on one flexible display rather than two separate displays. [2]
 The Samsung Galaxy Z Flip demonstrates that a modern smartphone can be placed into a compact clamshell form. However, it uses a flexible display that folds and unfolds into a conventional smartphone screen. [3]
 The gap I intend to explore is a clamshell smartphone built around two physical displays rather than a single folding display. Instead of adapting an existing smartphone to fold, I will build a device designed around the flip-phone form from the beginning. The project will produce a working physical prototype and the software needed to demonstrate its functionality.
+
 Bibliography
 
 [1] Z. Yang, C. Yu, X. Chen, J. Luo, and Y. Shi, “Investigating User-Defined Flipping Gestures for Dual-Display Phones,” International Journal of Human-Computer Studies, vol. 163, 2022, article 102800. doi: 10.1016/j.ijhcs.2022.102800.
